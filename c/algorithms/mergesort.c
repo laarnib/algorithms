@@ -6,7 +6,7 @@ void merge(int numlist[], int lowerbound, int mid, int upperbound);
 int main(void)
 {
     //!showArray(numbers, cursors[i])
-    //!showArray(numlist, cursors[i])
+    //!showMemory(start=65520)
     int numbers[8] = {7,4,5,2,6,3,8,1};
     int size = 8;
     
